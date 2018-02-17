@@ -372,6 +372,7 @@ p {
 }
 .appsLand-btn.appsLand-btn-gradient.btn-inverse {
   background: #FFF;
+  margin-top: 10px;
 }
 .appsLand-btn.appsLand-btn-gradient.btn-inverse:before {
   opacity: 0;
