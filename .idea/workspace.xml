@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b03c62e-0806-4c8a-858c-55102235ae17" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/denemedeep.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -22,11 +23,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="538" column="47" lean-forward="true" selection-start-line="538" selection-start-column="47" selection-end-line="538" selection-end-column="47" />
+            <state>
+              <caret selection-end-line="1" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="denemedeep.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/denemedeep.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="113" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="duamatik.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/duamatik.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -55,6 +74,12 @@
     <findStrings>
       <find>pt-trigger</find>
       <find>Blog</find>
+      <find>Çalışma</find>
+      <find>RecyclerView</find>
+      <find>Online Cv</find>
+      <find>blog</find>
+      <find>Çalışmalar</find>
+      <find>portfolio</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -68,7 +93,9 @@
         <option value="$PROJECT_DIR$/blog-post-1.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/hipo/index.html" />
+        <option value="$PROJECT_DIR$/duamatik.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/denemedeep.html" />
       </list>
     </option>
   </component>
@@ -81,15 +108,17 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="825" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -97,22 +126,10 @@
               <item name="hasibezaferr.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="hasibezaferr.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="hasibezaferr.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hasibezaferr.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hasibezaferr.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hasibezaferr.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -122,6 +139,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/images/portfolio" />
+      <recent name="$PROJECT_DIR$/images/portfolio/portfolio_details" />
       <recent name="$PROJECT_DIR$/images/blog" />
       <recent name="C:\Users\hasibezafer\Desktop\github\hasibezaferr.github.io" />
     </key>
@@ -179,16 +199,25 @@
       <workItem from="1518046487254" duration="684000" />
       <workItem from="1518050943600" duration="1520000" />
       <workItem from="1526630303100" duration="1131000" />
-      <workItem from="1527836765416" duration="407000" />
+      <workItem from="1527836765416" duration="689000" />
+      <workItem from="1528433852862" duration="1503000" />
+      <workItem from="1528436856861" duration="980000" />
+      <workItem from="1528455962119" duration="513000" />
+      <workItem from="1537166875664" duration="553000" />
+      <workItem from="1537352136162" duration="1206000" />
+      <workItem from="1538487424330" duration="918000" />
+      <workItem from="1538550491460" duration="344000" />
+      <workItem from="1538553848880" duration="208000" />
+      <workItem from="1538556294710" duration="276000" />
+      <workItem from="1538572366774" duration="612000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29690000" />
+    <option name="totallyTimeSpent" value="37085000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="825" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23888889" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -204,9 +233,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32913387" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32913387" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,41 +253,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hipo/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3855">
-          <caret line="257" column="12" selection-start-line="257" selection-start-column="12" selection-end-line="257" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/normalize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="62" column="10" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shemeansbusiness.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7035">
-          <caret line="469" column="30" selection-start-line="469" selection-start-column="30" selection-end-line="469" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/normalize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="930">
-          <caret line="62" column="10" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hipo/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3855">
@@ -482,10 +476,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/images/portfolio/portfolio_details/1_3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/portfolio/portfolio_details/1_2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/portfolio/portfolio_details/1_1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/duamatik.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="538" column="47" lean-forward="true" selection-start-line="538" selection-start-column="47" selection-end-line="538" selection-end-column="47" />
+        <state>
+          <caret selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/denemedeep.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="113" />
         </state>
       </provider>
     </entry>
