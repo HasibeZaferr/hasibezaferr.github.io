@@ -753,9 +753,16 @@ ul.social-links li:last-child a {
 }
 
 .home-page-block h2 {
+   color: #fff;
+   text-align: center;
+   font-size: 70px;
+   margin: 0;
+ }
+
+.home-page-block h3 {
   color: #fff;
   text-align: center;
-  font-size: 70px;
+  font-size: 40px;
   margin: 0;
 }
 
@@ -770,7 +777,7 @@ ul.social-links li:last-child a {
 
 .v-align {
   display: table-cell;
-  vertical-align: middle;
+  vertical-align: bottom;
 }
 
 /* About me list */
