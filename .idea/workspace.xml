@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b03c62e-0806-4c8a-858c-55102235ae17" name="Default" comment="">
+    <list default="true" id="9b03c62e-0806-4c8a-858c-55102235ae17" name="Default" comment="hippocampus web sayfası düzenlendi">
+      <change afterPath="$PROJECT_DIR$/hipo/images/slider/6.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hipo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hipo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hipo/images/slider/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/hipo/images/slider/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hipo/images/slider/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/hipo/images/slider/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hipo/images/slider/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/hipo/images/slider/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hipo/images/slider/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/hipo/images/slider/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hipo/images/slider/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/hipo/images/slider/5.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +30,9 @@
     <option name="height" value="825" />
   </component>
   <component name="ProjectId" id="1Z7e8rzLijXTYxFININ9CCAV17G" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -33,7 +41,7 @@
   <component name="PropertiesComponent">
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/hipo/images/slider" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -98,8 +106,16 @@
       <workItem from="1538553848880" duration="208000" />
       <workItem from="1538556294710" duration="276000" />
       <workItem from="1538572366774" duration="612000" />
-      <workItem from="1584194404491" duration="443000" />
+      <workItem from="1584194404491" duration="746000" />
     </task>
+    <task id="LOCAL-00001" summary="hippocampus web sayfası düzenlendi">
+      <created>1584195198695</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584195198695</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,7 +129,15 @@
       <collection />
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hippocampus web sayfası düzenlendi" />
+    <option name="LAST_COMMIT_MESSAGE" value="hippocampus web sayfası düzenlendi" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="304" y="30" key="CommitChangelistDialog2" timestamp="1584195198348">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="304" y="30" key="CommitChangelistDialog2/0.23.1440.814@0.23.1440.814" timestamp="1584195198348" />
     <state x="383" y="71" width="673" height="708" key="find.popup" timestamp="1584194829821">
       <screen x="0" y="23" width="1440" height="814" />
     </state>
