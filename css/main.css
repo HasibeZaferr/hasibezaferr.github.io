@@ -110,6 +110,10 @@ img {
   visibility: hidden;
 }
 
+.one-image{
+  display: block;
+}
+
 /* Buttons */
 input[type=submit], input[type=button], button, a.button {
   display: inline-block;
@@ -262,6 +266,14 @@ textarea.form-control, textarea.form-control:focus {
 
 .text-rotate {
   display: block;
+}
+
+.block-title {
+  font-size:22px;
+}
+
+.portfolio-block-description{
+  font-size: 20px;
 }
 
 
@@ -499,8 +511,8 @@ textarea.form-control, textarea.form-control:focus {
 
 .my-photo {
   position: relative;
-  margin: 30px auto 20px;
-  max-width: 110px;
+  margin: 60px auto 20px;
+  max-width: 200px;
   text-align: center;
   z-index: 0;
 }
@@ -527,8 +539,8 @@ textarea.form-control, textarea.form-control:focus {
 }
 
 p.site-description {
-  color: #9c9c9c;
-  font-size: 16px;
+  color: #424242;
+  font-size: 20px;
   font-weight: 300;
   font-family: Oswald, Helvetica, sans-serif;
   margin: 10px 0;
@@ -552,8 +564,8 @@ ul.social-links li {
 ul.social-links li a {
   display: inline-block;
   margin: 0 2px;
-  width: 28px;
-  height: 28px;
+  width: 35px;
+  height: 35px;
   color: #888;
   background-color: #eee;
   text-align: center;
@@ -565,7 +577,7 @@ ul.social-links li a:hover {
 }
 
 ul.social-links li a i {
-  font-size: 14px;
+  font-size: 18px;
   line-height: 28px;
 }
 
@@ -637,10 +649,10 @@ ul.social-links li:last-child a {
 .site-main-menu li a:hover {
   display: block;
   position: relative;
-  padding: 10px 20px;
+  padding: 15px 20px;
   text-align: center;
-  color: #222;
-  font-size: 15px;
+  color: #424242;
+  font-size: 20px;
   font-weight: 500;
   position: relative;
   text-decoration: none;
@@ -684,11 +696,11 @@ ul.social-links li:last-child a {
   display: inline-block;
   position: relative;
   margin: 0 0 0 -80px;
-  padding: 10px 20px 10px 78px;
+  padding: 15px 20px 15px 78px;
   background-color: #ffcd38;
   color: #fff;
   line-height: 1.1em;
-  font-weight: 500;
+  font-weight: 550;
   text-shadow: 1px 1px 1px rgba(0,0,0,0.1);
 }
 
@@ -834,7 +846,8 @@ ul.social-links li:last-child a {
 ======================================= */
 /* About me General info */
 .general-info {
-
+  font-size: x-large;
+  line-height: 33px;
 }
 /* /About me General info */
 
@@ -1050,12 +1063,13 @@ ul.social-links li:last-child a {
 
 .event-name {
   margin: 10px 0 0;
+  font-size:20px;
 }
 
 .event-description {
   color: #a5a5a5;
   margin: 0 0 4px;
-  font-size: 12px;
+  font-size: 18px;
   font-weight: 300;
   line-height: 1.45em;
 }
@@ -1487,9 +1501,18 @@ ul.social-links li:last-child a {
   margin-top: -15px;
 }
 
+.portfolio-content p{
+  font-size: 30px;
+  color: black;
+  margin-top: 30px;
+  margin-bottom: 30px;
+
+}
+
 .ci-text {
   position: relative;
   padding-left: 50px;
+  font-size: 22px;
 }
 
 .contact-info-block h5 {
