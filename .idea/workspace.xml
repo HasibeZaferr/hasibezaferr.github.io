@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b03c62e-0806-4c8a-858c-55102235ae17" name="Default" comment="edited portfolio page">
+    <list default="true" id="9b03c62e-0806-4c8a-858c-55102235ae17" name="Default" comment="font size">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +117,7 @@
       <workItem from="1668377646184" duration="6955000" />
       <workItem from="1668457548570" duration="3173000" />
       <workItem from="1668524557993" duration="3550000" />
-      <workItem from="1668531550144" duration="347000" />
+      <workItem from="1668531550144" duration="1935000" />
     </task>
     <task id="LOCAL-00001" summary="hippocampus web sayfası düzenlendi">
       <created>1584195198695</created>
@@ -146,11 +147,28 @@
       <option name="project" value="LOCAL" />
       <updated>1668529223692</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="font size">
+      <created>1668532053097</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668532053097</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -176,6 +194,7 @@
     <MESSAGE value="slider fotoğraflar güncellendi" />
     <MESSAGE value="new ui &lt;3" />
     <MESSAGE value="edited portfolio page" />
-    <option name="LAST_COMMIT_MESSAGE" value="edited portfolio page" />
+    <MESSAGE value="font size" />
+    <option name="LAST_COMMIT_MESSAGE" value="font size" />
   </component>
 </project>
