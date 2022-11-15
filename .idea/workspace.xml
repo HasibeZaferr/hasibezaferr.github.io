@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9b03c62e-0806-4c8a-858c-55102235ae17" name="Default" comment="new ui &lt;3">
-      <change afterPath="$PROJECT_DIR$/images/portfolio/portfolio_details/enneagram-store.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/portfolio_details/hippocampus_store.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/portfolio_details/practical_english_store.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/portfolio_details/quote_app_store.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/portfolio_details/turkcell_1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/portfolio_details/turkcell_2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio_project/portfolio_landing_page/enneagram.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio_project/portfolio_landing_page/hippocampus.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio_project/portfolio_landing_page/practical_english.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio_project/portfolio_landing_page/quote.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio_project/portfolio_landing_page/toucan_learning.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio_project/portfolio_landing_page/turkcell.html" afterDir="false" />
+    <list default="true" id="9b03c62e-0806-4c8a-858c-55102235ae17" name="Default" comment="edited portfolio page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +115,8 @@
       <workItem from="1668377541553" duration="97000" />
       <workItem from="1668377646184" duration="6955000" />
       <workItem from="1668457548570" duration="3173000" />
-      <workItem from="1668524557993" duration="1758000" />
+      <workItem from="1668524557993" duration="3550000" />
+      <workItem from="1668531550144" duration="347000" />
     </task>
     <task id="LOCAL-00001" summary="hippocampus web sayfası düzenlendi">
       <created>1584195198695</created>
@@ -151,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668387470530</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="edited portfolio page">
+      <created>1668529223692</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668529223692</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,6 +175,7 @@
     <MESSAGE value="hippocampus web sayfası düzenlendi" />
     <MESSAGE value="slider fotoğraflar güncellendi" />
     <MESSAGE value="new ui &lt;3" />
-    <option name="LAST_COMMIT_MESSAGE" value="new ui &lt;3" />
+    <MESSAGE value="edited portfolio page" />
+    <option name="LAST_COMMIT_MESSAGE" value="edited portfolio page" />
   </component>
 </project>
